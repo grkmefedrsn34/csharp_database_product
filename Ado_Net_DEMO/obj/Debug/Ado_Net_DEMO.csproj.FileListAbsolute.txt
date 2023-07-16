@@ -1,0 +1,9 @@
+C:\Users\dersi\OneDrive\Masaüstü\c# btk\Ado_Net_DEMO\obj\Debug\Ado_Net_DEMO.csprojAssemblyReference.cache
+C:\Users\dersi\OneDrive\Masaüstü\c# btk\Ado_Net_DEMO\obj\Debug\Ado_Net_DEMO.Form1.resources
+C:\Users\dersi\OneDrive\Masaüstü\c# btk\Ado_Net_DEMO\obj\Debug\Ado_Net_DEMO.Properties.Resources.resources
+C:\Users\dersi\OneDrive\Masaüstü\c# btk\Ado_Net_DEMO\obj\Debug\Ado_Net_DEMO.csproj.GenerateResource.cache
+C:\Users\dersi\OneDrive\Masaüstü\c# btk\Ado_Net_DEMO\bin\Debug\Ado_Net_DEMO.exe.config
+C:\Users\dersi\OneDrive\Masaüstü\c# btk\Ado_Net_DEMO\bin\Debug\Ado_Net_DEMO.exe
+C:\Users\dersi\OneDrive\Masaüstü\c# btk\Ado_Net_DEMO\bin\Debug\Ado_Net_DEMO.pdb
+C:\Users\dersi\OneDrive\Masaüstü\c# btk\Ado_Net_DEMO\obj\Debug\Ado_Net_DEMO.exe
+C:\Users\dersi\OneDrive\Masaüstü\c# btk\Ado_Net_DEMO\obj\Debug\Ado_Net_DEMO.pdb
